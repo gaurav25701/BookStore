@@ -18,7 +18,7 @@ const Banner = () => {
             </p>
             <input type="text" placeholder="Enter your Email to login" className="input input-bordered w-full max-w-xs" />
           </div>
-          <button className='btn mt-4 btn-secondary'>Login</button>
+          <button className='btn mt-4 btn-secondary'>Get Started</button>
 
         </div>
         <div className='w-full md:w-1/2'>
